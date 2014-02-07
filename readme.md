@@ -1,0 +1,1 @@
+Test a Trident Kafka consumer for Storm 0.9 and Kafka 0.8.
